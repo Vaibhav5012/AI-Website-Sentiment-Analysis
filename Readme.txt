@@ -10,6 +10,14 @@ This project is an AI-powered tool that scrapes text data from websites, analyze
 - **CSV Export & Analysis:** Saves scraped data to a CSV file and analyzes existing CSV files.
 - **Interactive GUI:** Built with Tkinter for user-friendly operation.
 
+## Debugging & Optimization Work
+
+- Resolved model convergence instability
+- Reduced inference time by X%
+- Handled edge-case input failures
+- Implemented logging for traceability
+
+
 ## Installation
 
 1. Clone the repository:
@@ -73,4 +81,5 @@ This project is licensed under the MIT License.
 ---
 
 Happy coding! 🚀
+
 
